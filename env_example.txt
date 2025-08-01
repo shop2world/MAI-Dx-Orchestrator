@@ -1,0 +1,16 @@
+# MAI-Dx Orchestrator 환경 설정
+# 이 파일을 .env로 복사하고 실제 값으로 수정하세요
+
+# OpenAI API 설정
+OPENAI_API_KEY=your_openai_api_key_here
+
+# 시스템 설정
+DEBUG=True
+LOG_LEVEL=INFO
+
+# 서버 설정 (선택사항)
+HOST=0.0.0.0
+PORT=8000
+
+# 데이터베이스 설정 (향후 확장용)
+# DATABASE_URL=sqlite:///./mai_dx.db 
