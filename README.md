@@ -2,6 +2,11 @@
 
 Shop2world의 MAI-Dx Orchestrator 시스템을 구현한 의료 진단 AI 시스템입니다.
 
+## 📺 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/영상ID/0.jpg)](https://www.youtube.com/watch?v=영상ID)
+
+
 ## 🏥 시스템 개요
 
 이 시스템은 다음과 같은 구성 요소로 이루어져 있습니다:
